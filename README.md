@@ -2,7 +2,6 @@
 
 A deep learning–based Human Activity Recognition System that classifies human activities from video sequences using a hybrid CNN-LSTM architecture.
 
----
 
 ## Project Overview
 
@@ -10,7 +9,6 @@ This project implements a Human Activity Recognition (HAR) system capable of rec
 
 The system is trained on the UCF50 dataset and can classify multiple human activities such as basketball, diving, golf swing, push-ups, pull-ups, walking with a dog, skateboarding, and more.
 
----
 
 ## Features
 
@@ -23,7 +21,6 @@ The system is trained on the UCF50 dataset and can classify multiple human activ
 - Performance visualization
 - Prediction on unseen videos
 
----
 
 ## Dataset
 
@@ -33,7 +30,6 @@ This project uses the **UCF50 Human Activity Recognition Dataset**.
 
 https://www.kaggle.com/datasets/matthewjansen/ucf50-action-recognition-dataset
 
----
 
 ## Selected Activities
 
@@ -58,7 +54,6 @@ The model is trained on the following activities:
 - VolleyballSpiking
 - WalkingWithDog
 
----
 
 ## Model Architecture
 
@@ -80,7 +75,6 @@ Softmax Classifier
 ↓
 Predicted Human Activity
 
----
 
 ## Technologies Used
 
@@ -92,7 +86,6 @@ Predicted Human Activity
 - Scikit-learn
 - Jupyter Notebook
 
----
 
 ## Project Workflow
 
@@ -105,7 +98,6 @@ Predicted Human Activity
 7. Evaluate performance
 8. Predict human activities on unseen videos
 
----
 
 ## Results
 
@@ -117,7 +109,6 @@ The notebook includes:
 - Activity Predictions
 - Model Performance Evaluation
 
----
 
 ## Installation
 
@@ -126,7 +117,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/imanfatima885/Human-Activity-Recognition-System.git
 
----
 
 ## Future Improvements
 
@@ -135,7 +125,6 @@ git clone https://github.com/imanfatima885/Human-Activity-Recognition-System.git
 - Develop a real-time webcam-based activity recognition system
 - Improve classification accuracy using Transformer-based architectures
 
----
 
 ## Skills Demonstrated
 
@@ -149,7 +138,6 @@ git clone https://github.com/imanfatima885/Human-Activity-Recognition-System.git
 - Data Preprocessing
 - Model Evaluation
 
----
 
 ## License
 
