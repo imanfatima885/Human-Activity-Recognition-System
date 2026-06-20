@@ -60,19 +60,33 @@ The model is trained on the following activities:
 The system follows the workflow below:
 
 Video Input
+
 ↓
+
 Frame Extraction
+
 ↓
+
 Frame Preprocessing
+
 ↓
+
 TimeDistributed CNN
+
 ↓
+
 LSTM
+
 ↓
+
 Dense Layer
+
 ↓
+
 Softmax Classifier
+
 ↓
+
 Predicted Human Activity
 
 
